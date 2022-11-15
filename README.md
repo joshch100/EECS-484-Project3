@@ -1,3 +1,2 @@
 # EECS-484-Project3
-EECS-484-Project3
 In Project 3, we will use a similar dataset as in Project 2 and explore the capabilities of MongoDB (a NoSQL DBMS). There are two parts to the project. Part A of the project does not use MongoDB. You will be extracting data from tables in the Fakebook database and exporting a JSON file output.json that contains information about users. In Part B of the project, you will be importing output.json (or a sample.json that we give you) into MongoDB to create a mongoDB collection of users. You will then need to write 8 queries on the users collection. You can start on Part A right away without knowing anything about MongoDB, whereas Part B will require you to use MongoDB.
